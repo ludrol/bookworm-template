@@ -44,7 +44,7 @@ if (window.top !== window.self) {
 }
 ```
 
-save script
+save script with ctrl + S
 
 refresh https://www.reddit.com/r/place/?cx=1886&cy=875&px=16
 
