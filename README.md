@@ -7,9 +7,12 @@ https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldm
 Firefox
 https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
 
+open extension menu
 
 ![obraz](https://user-images.githubusercontent.com/37674089/161429963-323feeb3-bf73-48ea-814f-1e52c305fc8c.png)
 
+ add script
+ 
 ![obraz](https://user-images.githubusercontent.com/37674089/161429974-7db89b8e-5593-44a4-b549-47af8f5f5403.png)
 
 
@@ -40,3 +43,8 @@ if (window.top !== window.self) {
 
 }
 ```
+
+save script
+
+refresh https://www.reddit.com/r/place/?cx=1886&cy=875&px=16
+
