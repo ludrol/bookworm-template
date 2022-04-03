@@ -8,6 +8,11 @@ Firefox
 https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/
 
 
+![obraz](https://user-images.githubusercontent.com/37674089/161429963-323feeb3-bf73-48ea-814f-1e52c305fc8c.png)
+
+![obraz](https://user-images.githubusercontent.com/37674089/161429974-7db89b8e-5593-44a4-b549-47af8f5f5403.png)
+
+
 Copy script:
 ```
 // ==UserScript==
